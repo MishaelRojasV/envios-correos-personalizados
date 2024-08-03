@@ -71,6 +71,7 @@ for index, row in df.iterrows():
             <li><b>Contraseña Provisional:</b> {contrasena}</li>
         </ul>
         <p>Le recomendamos que cambie su contraseña provisional al ingresar por primera vez para asegurar la seguridad de su cuenta.</p>
+        <p>Link del Aula virtual: https://epgvirtual2.unitru.edu.pe/login/index.php</p>
         <p><b>Tiene un plazo de 48 horas para activar su cuenta utilizando estas credenciales.</b> Después de este periodo, la cuenta será desactivada temporalmente hasta que contacte con UTIC.</p>
         <p>Adjunto a este correo encontrará un documento con instrucciones detalladas sobre cómo acceder al sistema y 
         cómo cambiar su contraseña provisional.</p>
